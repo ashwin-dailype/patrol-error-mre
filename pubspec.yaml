@@ -17,7 +17,7 @@ dev_dependencies:
   flutter_lints: ^3.0.0
   flutter_test:
     sdk: flutter
-  patrol: ^3.7.1
+  patrol: ^3.6.1
 
 flutter:
   uses-material-design: true
